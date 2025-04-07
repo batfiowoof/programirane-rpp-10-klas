@@ -1,0 +1,14 @@
+C:\Users\Bozhidar\source\repos\DateTimeExample\DateTimeExample\bin\Debug\net8.0\DateTimeExample.exe
+C:\Users\Bozhidar\source\repos\DateTimeExample\DateTimeExample\bin\Debug\net8.0\DateTimeExample.deps.json
+C:\Users\Bozhidar\source\repos\DateTimeExample\DateTimeExample\bin\Debug\net8.0\DateTimeExample.runtimeconfig.json
+C:\Users\Bozhidar\source\repos\DateTimeExample\DateTimeExample\bin\Debug\net8.0\DateTimeExample.dll
+C:\Users\Bozhidar\source\repos\DateTimeExample\DateTimeExample\bin\Debug\net8.0\DateTimeExample.pdb
+C:\Users\Bozhidar\source\repos\DateTimeExample\DateTimeExample\obj\Debug\net8.0\DateTimeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozhidar\source\repos\DateTimeExample\DateTimeExample\obj\Debug\net8.0\DateTimeExample.AssemblyInfoInputs.cache
+C:\Users\Bozhidar\source\repos\DateTimeExample\DateTimeExample\obj\Debug\net8.0\DateTimeExample.AssemblyInfo.cs
+C:\Users\Bozhidar\source\repos\DateTimeExample\DateTimeExample\obj\Debug\net8.0\DateTimeExample.csproj.CoreCompileInputs.cache
+C:\Users\Bozhidar\source\repos\DateTimeExample\DateTimeExample\obj\Debug\net8.0\DateTimeExample.dll
+C:\Users\Bozhidar\source\repos\DateTimeExample\DateTimeExample\obj\Debug\net8.0\refint\DateTimeExample.dll
+C:\Users\Bozhidar\source\repos\DateTimeExample\DateTimeExample\obj\Debug\net8.0\DateTimeExample.pdb
+C:\Users\Bozhidar\source\repos\DateTimeExample\DateTimeExample\obj\Debug\net8.0\DateTimeExample.genruntimeconfig.cache
+C:\Users\Bozhidar\source\repos\DateTimeExample\DateTimeExample\obj\Debug\net8.0\ref\DateTimeExample.dll
