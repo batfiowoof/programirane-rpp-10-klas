@@ -1,0 +1,14 @@
+C:\Users\Bozhidar\source\repos\DictionaryExample\DictionaryExample\bin\Debug\net8.0\DictionaryExample.exe
+C:\Users\Bozhidar\source\repos\DictionaryExample\DictionaryExample\bin\Debug\net8.0\DictionaryExample.deps.json
+C:\Users\Bozhidar\source\repos\DictionaryExample\DictionaryExample\bin\Debug\net8.0\DictionaryExample.runtimeconfig.json
+C:\Users\Bozhidar\source\repos\DictionaryExample\DictionaryExample\bin\Debug\net8.0\DictionaryExample.dll
+C:\Users\Bozhidar\source\repos\DictionaryExample\DictionaryExample\bin\Debug\net8.0\DictionaryExample.pdb
+C:\Users\Bozhidar\source\repos\DictionaryExample\DictionaryExample\obj\Debug\net8.0\DictionaryExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozhidar\source\repos\DictionaryExample\DictionaryExample\obj\Debug\net8.0\DictionaryExample.AssemblyInfoInputs.cache
+C:\Users\Bozhidar\source\repos\DictionaryExample\DictionaryExample\obj\Debug\net8.0\DictionaryExample.AssemblyInfo.cs
+C:\Users\Bozhidar\source\repos\DictionaryExample\DictionaryExample\obj\Debug\net8.0\DictionaryExample.csproj.CoreCompileInputs.cache
+C:\Users\Bozhidar\source\repos\DictionaryExample\DictionaryExample\obj\Debug\net8.0\DictionaryExample.dll
+C:\Users\Bozhidar\source\repos\DictionaryExample\DictionaryExample\obj\Debug\net8.0\refint\DictionaryExample.dll
+C:\Users\Bozhidar\source\repos\DictionaryExample\DictionaryExample\obj\Debug\net8.0\DictionaryExample.pdb
+C:\Users\Bozhidar\source\repos\DictionaryExample\DictionaryExample\obj\Debug\net8.0\DictionaryExample.genruntimeconfig.cache
+C:\Users\Bozhidar\source\repos\DictionaryExample\DictionaryExample\obj\Debug\net8.0\ref\DictionaryExample.dll
