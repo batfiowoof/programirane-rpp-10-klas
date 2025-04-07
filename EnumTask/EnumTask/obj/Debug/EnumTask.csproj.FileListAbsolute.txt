@@ -1,0 +1,7 @@
+C:\Users\Bozhidar\source\repos\EnumTask\EnumTask\bin\Debug\EnumTask.exe.config
+C:\Users\Bozhidar\source\repos\EnumTask\EnumTask\bin\Debug\EnumTask.exe
+C:\Users\Bozhidar\source\repos\EnumTask\EnumTask\bin\Debug\EnumTask.pdb
+C:\Users\Bozhidar\source\repos\EnumTask\EnumTask\obj\Debug\EnumTask.csproj.AssemblyReference.cache
+C:\Users\Bozhidar\source\repos\EnumTask\EnumTask\obj\Debug\EnumTask.csproj.CoreCompileInputs.cache
+C:\Users\Bozhidar\source\repos\EnumTask\EnumTask\obj\Debug\EnumTask.exe
+C:\Users\Bozhidar\source\repos\EnumTask\EnumTask\obj\Debug\EnumTask.pdb
