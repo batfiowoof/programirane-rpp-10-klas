@@ -1,0 +1,14 @@
+C:\Users\bojid\source\repos\HashtableExample\HashtableExample\bin\Debug\net8.0\HashtableExample.exe
+C:\Users\bojid\source\repos\HashtableExample\HashtableExample\bin\Debug\net8.0\HashtableExample.deps.json
+C:\Users\bojid\source\repos\HashtableExample\HashtableExample\bin\Debug\net8.0\HashtableExample.runtimeconfig.json
+C:\Users\bojid\source\repos\HashtableExample\HashtableExample\bin\Debug\net8.0\HashtableExample.dll
+C:\Users\bojid\source\repos\HashtableExample\HashtableExample\bin\Debug\net8.0\HashtableExample.pdb
+C:\Users\bojid\source\repos\HashtableExample\HashtableExample\obj\Debug\net8.0\HashtableExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojid\source\repos\HashtableExample\HashtableExample\obj\Debug\net8.0\HashtableExample.AssemblyInfoInputs.cache
+C:\Users\bojid\source\repos\HashtableExample\HashtableExample\obj\Debug\net8.0\HashtableExample.AssemblyInfo.cs
+C:\Users\bojid\source\repos\HashtableExample\HashtableExample\obj\Debug\net8.0\HashtableExample.csproj.CoreCompileInputs.cache
+C:\Users\bojid\source\repos\HashtableExample\HashtableExample\obj\Debug\net8.0\HashtableExample.dll
+C:\Users\bojid\source\repos\HashtableExample\HashtableExample\obj\Debug\net8.0\refint\HashtableExample.dll
+C:\Users\bojid\source\repos\HashtableExample\HashtableExample\obj\Debug\net8.0\HashtableExample.pdb
+C:\Users\bojid\source\repos\HashtableExample\HashtableExample\obj\Debug\net8.0\HashtableExample.genruntimeconfig.cache
+C:\Users\bojid\source\repos\HashtableExample\HashtableExample\obj\Debug\net8.0\ref\HashtableExample.dll
