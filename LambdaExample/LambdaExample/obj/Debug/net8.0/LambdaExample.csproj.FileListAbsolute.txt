@@ -1,0 +1,14 @@
+C:\Users\Bozhidar\source\repos\LambdaExample\LambdaExample\bin\Debug\net8.0\LambdaExample.exe
+C:\Users\Bozhidar\source\repos\LambdaExample\LambdaExample\bin\Debug\net8.0\LambdaExample.deps.json
+C:\Users\Bozhidar\source\repos\LambdaExample\LambdaExample\bin\Debug\net8.0\LambdaExample.runtimeconfig.json
+C:\Users\Bozhidar\source\repos\LambdaExample\LambdaExample\bin\Debug\net8.0\LambdaExample.dll
+C:\Users\Bozhidar\source\repos\LambdaExample\LambdaExample\bin\Debug\net8.0\LambdaExample.pdb
+C:\Users\Bozhidar\source\repos\LambdaExample\LambdaExample\obj\Debug\net8.0\LambdaExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bozhidar\source\repos\LambdaExample\LambdaExample\obj\Debug\net8.0\LambdaExample.AssemblyInfoInputs.cache
+C:\Users\Bozhidar\source\repos\LambdaExample\LambdaExample\obj\Debug\net8.0\LambdaExample.AssemblyInfo.cs
+C:\Users\Bozhidar\source\repos\LambdaExample\LambdaExample\obj\Debug\net8.0\LambdaExample.csproj.CoreCompileInputs.cache
+C:\Users\Bozhidar\source\repos\LambdaExample\LambdaExample\obj\Debug\net8.0\LambdaExample.dll
+C:\Users\Bozhidar\source\repos\LambdaExample\LambdaExample\obj\Debug\net8.0\refint\LambdaExample.dll
+C:\Users\Bozhidar\source\repos\LambdaExample\LambdaExample\obj\Debug\net8.0\LambdaExample.pdb
+C:\Users\Bozhidar\source\repos\LambdaExample\LambdaExample\obj\Debug\net8.0\LambdaExample.genruntimeconfig.cache
+C:\Users\Bozhidar\source\repos\LambdaExample\LambdaExample\obj\Debug\net8.0\ref\LambdaExample.dll
